@@ -18,28 +18,27 @@ export default function Footer() {
         {/* Social Icons */}
         <div className="flex items-center gap-5 text-xl">
           <a
-            href="https://github.com/"
+            href="https://github.com/doni-coder"
             target="_blank"
             className="hover:text-blue-400 transition"
           >
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/"
+            href="https://linkedin.com/in/om-prakash-sahu"
             target="_blank"
             className="hover:text-blue-400 transition"
           >
             <FaLinkedin />
           </a>
           <a
-            href="https://instagram.com/"
-            target="_blank"
+            href="#"
             className="hover:text-pink-400 transition"
           >
             <FaInstagram />
           </a>
           <a
-            href="mailto:your-email@gmail.com"
+            href="mailto:omprakashsahu9853@gmail.com"
             className="hover:text-green-400 transition"
           >
             <FaEnvelope />

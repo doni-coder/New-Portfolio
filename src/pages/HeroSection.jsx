@@ -56,9 +56,7 @@ function HeroSection() {
           {/* Main Image with Border */}
           <div className="relative w-60 h-60 border-8 border-blue-200/10 rounded-full overflow-hidden">
             <img
-              src={
-                "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
-              }
+              src="/public/images/my_image.webp"
               alt="profile"
               className="w-full h-full  object-cover"
             />
