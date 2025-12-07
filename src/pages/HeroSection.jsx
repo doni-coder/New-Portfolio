@@ -2,7 +2,6 @@ import React from "react";
 import TextType from "../components/TextType.jsx";
 
 function HeroSection() {
-  
   return (
     <div className="w-full px-9 md:px-20 md:pt-27 pt-14 pb-8 font-sans">
       {/* HERO SECTION */}
@@ -13,7 +12,7 @@ function HeroSection() {
             Hi, I am Om prakash,
             <br />
             <TextType
-              text={["Developer", "Engineer", "Freelancer"]}
+              text={["Freelancer", "Developer", "Engineer"]}
               className="text-blue-400"
               typingSpeed={75}
               pauseDuration={1500}
@@ -22,9 +21,9 @@ function HeroSection() {
             />
           </h1>
           <p className="mt-6 text-gray-400 leading-relaxed">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis enim velit mollit. Exercitation
-            veniam consequat sunt nostrud amet.
+            I love building impactful digital products using modern technologies
+            — from fast and clean frontends to scalable backend systems powered
+            by cloud & AI.
           </p>
 
           <div className="flex sm:justify-start justify-center">
